@@ -1,7 +1,7 @@
 #项目介绍
 -----
-    项目描述：项目共9个页面，实现用户注册登录、搜索商家、下载订单、查看购物车、城市切换定位等功能<br>
-    应用技术：前端框架vue+vuex+vue-router、服务端框架koa+koa-router、ui框架element-ui、数据请求ajax 、css预处 理sass、es6语法<br>
+  项目描述：项目共9个页面，实现用户注册登录、搜索商家、下载订单、查看购物车、城市切换定位等功能<br>
+  应用技术：前端框架vue+vuex+vue-router、服务端框架koa+koa-router、ui框架element-ui、数据请求ajax 、css预处 理sass、es6语法<br>
    
 #项目截图
 -----
